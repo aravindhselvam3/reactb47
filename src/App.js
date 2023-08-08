@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hello(props){
   return(
-    <p>Hello {props.name}, you are {props.age} years old.</p>
+    <p>Hello {props.name}, you are {props.age} years old!</p>
   )
 }
 
